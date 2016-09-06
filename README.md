@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi I am macans.
+macans here,good,ok,java,c,c++,python,php,jsp.
+i like c,java,python.
+well.
